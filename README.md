@@ -3,10 +3,10 @@ Implemented a responsive Covid Dashbaord where users can see confimed cases, act
 https://public.tableau.com/app/profile/sujata.saini/viz/covid19-Dashboard/Dashboard2?publish=yes
 
 ## Tech stacks
-SQL
-Tableau
-Excel
-DAX language
+.SQL
+.Tableau
+.Excel
+.DAX language
 
 ## Tableau Techniques Learnt
 Creating calculated columns
